@@ -1,0 +1,11 @@
+To run programs please run in this order to avoid screen clutter on the senders side. i have commented several parts of the program to enable people to see what is currently happening in it.
+For SR:
+python3 receiver.py SR [filename]
+python3 sender.py SR filename
+For GBN:
+python3 receiver.py GBN [filename]
+python3 sender.py GBN filename
+
+
+
+Note: I do not know if this will run on windows as i only tried on Kali Linux.
